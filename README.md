@@ -1,4 +1,4 @@
-# sampple_data_get
+# sample_data_get
 
 
 This little Project is all about how to get model field based on the other filed (user given)
